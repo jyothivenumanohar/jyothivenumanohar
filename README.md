@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## About me👋
+### I’m currently working on Excel, Python, SQL,PowerBI
 <!--
 **jyothivenumanohar/jyothivenumanohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
