@@ -1,6 +1,6 @@
 ## About me👋
 ### Hi, my name is Jyothi. I am currently working as a mathematics tutor, driven by my passion for math and problem-solving. Alongside teaching, I have been equipping myself with in-demand technical skills like Excel, Power BI, Python, and SQL. My journey has been focused on building a strong foundation in data analysis, visualization, and programming.
-I am now gearing up to transition into a role where I can apply these skills professionally. With my analytical mindset and methodical approach, I am confident in my ability to tackle complex challenges and contribute meaningfully to any data-focused project or team.
+### I am now gearing up to transition into a role where I can apply these skills professionally. With my analytical mindset and methodical approach, I am confident in my ability to tackle complex challenges and contribute meaningfully to any data-focused project or team.
 
 <!--
 **jyothivenumanohar/jyothivenumanohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
